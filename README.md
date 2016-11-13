@@ -1,1 +1,1 @@
-# go-prog-lang-book
+# The GO Programmng Language code
